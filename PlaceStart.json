@@ -50,8 +50,6 @@
             "y": 1840
         } 
   ],
-  "whitelist": [
-  ],
-  "blacklist": [
-  ]
+  "whitelist": [],
+  "blacklist": []
 }
